@@ -107,7 +107,7 @@ public class Week04Project {
 		
 		
 		// We create a new total called "nameSum" and set it's value to 0. This will allow us to add the stored values together into a new variable
-		int nameSum = 0;
+		double nameSum = 0;
 		
 		// Our loop iterates through the array and sums the character total then stores it in the variable we set previously
 		for (int i = 0; i < nameLengths.length; i++) {
